@@ -7,7 +7,7 @@
 // @match        https://web.whatsapp.com/
 // @grant        none
 // @require http://code.jquery.com/jquery-3.3.1.min.js
-// @downloadURL  https://github.com/moderntribe/tampermonkey-scripts/raw/master/liveagent/liveagent-clickafy-urls.user.js
+// @downloadURL  https://github.com/deblynprado/wpp-dark-mode/blob/master/wpp-dark-mode.js
 
 // ==/UserScript==
 
